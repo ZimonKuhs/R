@@ -1,2 +1,2 @@
 # R
-We languish in the beams of data, statistics, and unreliable probabilities.
+We languish in the pervasive beams of data, statistics, and unreliable probabilities.
